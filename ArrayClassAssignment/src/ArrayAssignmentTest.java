@@ -1,0 +1,11 @@
+
+public class ArrayAssignmentTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		ArrayAssignment.arrayOperator();
+		
+	}
+
+}
